@@ -47,6 +47,7 @@ All you have to do is create your app using [create-react-app](https://github.co
 * [craco-preact](https://github.com/DocSpring/craco-preact) by [@DocSpring](https://github.com/DocSpring)
 * [craco-less](https://github.com/DocSpring/craco-less) by [@DocSpring](https://github.com/DocSpring)
 * [craco-antd](https://github.com/DocSpring/craco-antd) by [@DocSpring](https://github.com/DocSpring)
+* [craco-module-federation](https://github.com/hasanayan/craco-module-federation) by [@hasanayan](https://github.com/hasanayan)
 * [craco-plugin-react-hot-reload](https://github.com/HasanAyan/craco-plugin-react-hot-reload) by [@hasanayan](https://github.com/hasanayan)
 * [craco-plugin-single-spa-application](https://github.com/hasanayan/craco-plugin-single-spa-application) by [@hasanayan](https://github.com/hasanayan)
 * [craco-babel-loader](https://github.com/rjerue/craco-babel-loader) by [@rjerue](https://github.com/rjerue/)
